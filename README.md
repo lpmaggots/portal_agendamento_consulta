@@ -1,4 +1,17 @@
-# agendamd
+# portal_agendamento_consulta
+
+Project in progress!!!!!
+I'm developing an appointment scheduling portal using Vue.Js as the basis for the Front-end.
+
+Used tecnology:
+•	HTML.
+•	CSS.
+•	SCSS.
+•	Javascript.
+•	Vue.JS.
+•	Nuxt.JS.
+•	Vuetify.
+•	Node.JS.
 
 ## Build Setup
 
