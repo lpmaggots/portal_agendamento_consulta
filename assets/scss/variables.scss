@@ -1,0 +1,29 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+// $font-size-root: 20px;
+
+.theme-light {
+        --primary: #17233c;
+}
+
+$blue: (
+    'base': #17233C,
+    'lighten-5': #A6B9DD,
+    'lighten-4': #97AED8,
+    'lighten-3': #89A2D2,
+    'lighten-2': #7A97CD,
+    'lighten-1': #6B8BC7,
+    'darken-1': #2D4576,
+    'darken-2': #273D68,
+    'darken-3': #223459,
+    'darken-4': #1C2B4A,
+);
+
+$grid-breakpoints: (
+        xs: 0,
+        sm: 850px,
+        md: 1190px,
+        lg: 1100px,
+        xl: 1350px
+);

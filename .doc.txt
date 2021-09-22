@@ -1,0 +1,11 @@
+# FILES
+
+    ## components
+        ExampleComponent.vue
+    
+    ## layouts
+        example-layout.vue
+
+    ## pages
+        ExampleFolder > index.vue
+        ExampleFolder > _index.vue (For params only)
